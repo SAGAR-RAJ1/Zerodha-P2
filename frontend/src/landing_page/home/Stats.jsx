@@ -1,7 +1,7 @@
 function Stats() {
   return (
     <div>
-      <div className="container mt-5">
+      <div className="container mt-5 mb-5">
         <div className="row">
           <div className="col">
             <h2 className="mb-5 mt-5">Trust with confidence</h2>
