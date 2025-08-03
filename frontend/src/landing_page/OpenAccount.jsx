@@ -1,12 +1,6 @@
 function OpenAccount() {
     return (<div className="container p-5 mb-5 mt-5">
         <div className="row text-center">
-          <img
-            src="Images/homeHero.png"
-            className="img-fluid mb-5"
-            alt="Hero img"
-            srcset=""
-          />
           <h1 className="mt-5 mb-4">Open a Zerodha account</h1>
   
           <p className="text-muted mb-4">
