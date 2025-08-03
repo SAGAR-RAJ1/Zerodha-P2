@@ -8,7 +8,7 @@ function SupportPage() {
   return (
     <>
       <Hero />
-      <CreateTicket />
+      <CreateTicket />  
     </>
   );
 }
