@@ -1,0 +1,3 @@
+[submodule "zerodha-clone"]
+	path = zerodha-clone
+	url = https://github.com/apna-college/zerodha-clone.git
